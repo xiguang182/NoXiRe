@@ -151,5 +151,12 @@ configs/local/default.yaml
 /logs/
 .env
 
+# Testing output (skeleton conversion)
+data_preparation/test_conversion_output/
+data_preparation/skeleton_testing/test_conversion_output/
+
+# Local test folder
+/local_test/
+
 # Aim logging
 .aim
